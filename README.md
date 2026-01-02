@@ -1,4 +1,4 @@
-This dashboard visualizes key metrics including:
+This dashboard visualizes key metrics including: 🔗 Dashboard Link : https://lnkd.in/gjFkb-Rn
  🔹 Total Sales & Revenue Trends
  🔹 Region-wise performance
  🔹 Product-level insights
